@@ -1,6 +1,8 @@
 # Interactive Parallax Canvas | [Live Preview](https://kolonatalie.github.io/parallax-canvas/)
 An immersive, multi-layered parallax experience built with modern JavaScript and GSAP.
 
+[![Wiki](https://img.shields.io/badge/docs-wiki-A575D4?style=for-the-badge)](https://github.com/kolonatalie/parallax-canvas/wiki)
+
 | | |
 | :--- | :--- |
 | **Project Status** | $$in Progress$$ |
