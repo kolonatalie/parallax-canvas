@@ -12,9 +12,8 @@ export class Engine {
 
   initStats() {
     this.stats = new Stats();
-    this.stats.showPanel(0); // 0: fps, 1: ms, 2: mb
+    this.stats.showPanel(0);
 
-    // Стилізуємо панель, щоб вона не заважала дизайну
     this.stats.dom.style.position = 'absolute';
     this.stats.dom.style.top = '10px';
     this.stats.dom.style.left = '10px';
