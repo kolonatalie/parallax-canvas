@@ -3,10 +3,7 @@ An immersive, multi-layered parallax experience built with modern JavaScript and
 
 [![Wiki](https://img.shields.io/badge/docs-wiki-A575D4?style=for-the-badge)](https://github.com/kolonatalie/parallax-canvas/wiki)
 
-| | |
-| :--- | :--- |
-| **Project Status** | $$in Progress$$ |
-|||
+![Project status](https://img.shields.io/badge/Status-In_Progress-ffea00?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 ## Roadmap & Future Improvements
